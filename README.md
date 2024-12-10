@@ -8,4 +8,4 @@ This project processes email content through NLP steps like tokenization, stopwo
 By leveraging the simplicity and effectiveness of Naive Bayes, this model provides a fast and accurate solution for detecting spam emails, enhancing email management and security.
 </p>
   
-![Alt text]("C:\Users\ikool\Desktop\Images")
+![Alt text](https://github.com/amanraj-creator/Spam-Email-Classifier-using-NLP-and-Machine-Learning/blob/main/Cover_Page.png)
